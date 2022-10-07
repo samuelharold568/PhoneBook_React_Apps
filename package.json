@@ -1,0 +1,25 @@
+{
+  "name": "phone-book_node_express_apps",
+  "version": "1.0.0",
+  "homepage": "https://samuelharold568.github.io/PhoneBook_React_Apps",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"samuel\"",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
