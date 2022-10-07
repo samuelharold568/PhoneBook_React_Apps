@@ -1,7 +1,7 @@
 {
   "name": "phone-book_node_express_apps",
   "version": "1.0.0",
-  "homepage": "https://samuelharold568.github.io/PhoneBook_React_Apps",
+  "homepage": "https://samuelharold568.github.io/PhoneBook_React_Apps/build/index.html",
   "description": "",
   "main": "index.js",
   "scripts": {
